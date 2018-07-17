@@ -1,1 +1,7 @@
-whatever you do,wherever you go
+include <iosteam>
+using namespace std;
+int main
+{
+ cout<<hello world;
+}
+cout<<endl;
