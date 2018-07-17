@@ -1,8 +1,6 @@
-include <iosteam>
-using namespace std;
-int main
+int fun (int a,int b)
 {
- cout<<hello world;
- cout<<everyelse;
+int y;
+y=a+b;
+return y;
 }
-cout<<endl;
